@@ -5,5 +5,5 @@ management:
     enabled: false
 clm:
  config:
-  param1: PARAM_1_VALUE
+  param1: PARAM_1_VALUE_CHANGED
   param2: PARAM_2_VALUE
