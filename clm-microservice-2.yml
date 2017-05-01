@@ -5,5 +5,5 @@ management:
     enabled: false
 clm:
  config:
-  param1: PARAM_1
+  param1: PARAM_1_DEV
   param2:

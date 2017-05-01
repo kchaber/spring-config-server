@@ -3,3 +3,7 @@ server:
 management:
   security:
     enabled: false
+clm:
+ config:
+  param1: PARAM_2_DEV
+  param2:
